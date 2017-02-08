@@ -1,0 +1,52 @@
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+h1 {
+	font-size: 32px;
+  font-family:'Palatino Linotype', serif;
+  color: #799575;
+}
+
+h2 {
+	font-size: 56px;
+}
+
+
+.hero {
+  padding: 250px;
+	margin: 30px;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  color: #ffffff;
+  background-image: url("http://wallpapercave.com/wp/F2ZGks2.jpg");
+  background-position: center;
+}
+
+
+p {
+	font-size: 2rem;
+}
+
+.hero a {
+	color: #EAE1FF;
+	font-size: 1.50em;
+	text-decoration: none;
+}
+
+.ptitle {
+	border: 1px solid #000;
+  text-align: center;
+}
+
+.plink {
+	border: 2px solid #FFFFFF;
+
+}
+
+#footer {
+	font-size: 1rem;
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+}

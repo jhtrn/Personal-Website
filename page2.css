@@ -1,0 +1,138 @@
+html, body {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  font-weight: 300;
+  line-height: 1.5;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  background-image: url('https://s-media-cache-ak0.pinimg.com/736x/49/1b/18/491b18b905d0263ce4acdb385c4ef272.jpg');
+  background-position: center top;
+  background-size: cover;
+  margin: 0;
+}
+
+.head1 {
+  text-indent: 85px;
+  font-weight: bold;
+}
+
+.head2 {
+  text-indent: 45px;
+  font-weight: bold;
+}
+
+.page-title {
+  text-align: center;
+  font-weight: 100;
+  font-family: 'Lucida Console' monospace;
+}
+
+.page-description {
+  border: 1px solid #000;
+  margin: 2px;
+  text-align: center;
+  font-weight: bold;
+  padding: 20px;
+  font-family: Verdana, sans-serif;
+}
+.wholepthang {
+  width: 100%;
+}
+.page-des1 {
+  float: left;
+  width: 25%;
+  text-align:left;
+}
+.page-des2 {
+  border: 1px solid #000;
+  margin-left: 50px;
+  margin-right: 5px;
+  padding:20px;
+  font-size: 12px;
+  font-family: Verdana, Geneva, sans-serif;
+  background-color: #FFFFFF;
+}
+
+.page-des3 {
+  border: 1px solid #000;
+  margin-right:50px;
+  padding:20px;
+  font-size: 12px;
+  font-family: Verdana, Geneva, sans-serif;
+  background-color: #FFFFFF;
+}
+
+.video {
+  float: left;
+  width: 50%;
+}
+
+.music {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  display: block;
+}
+
+
+
+/*.pictures img {
+
+   width: 300px;
+   height: auto;
+   padding: 30px;
+}*/
+
+/*img.indivpic1 {
+    width:  300px;
+    height: 300px;
+}
+img.indivpic2 {
+    display: inline
+    width:  300px;
+    height: 300px;
+    position: absolute;
+    clip: rect(75px,350px,290px,110px);
+}*/
+
+/*#footer
+nav {
+  background-color: #FFF;
+}
+
+nav li {
+  display: inline;
+  margin: 0;
+  padding: 200px 100px;
+}
+
+nav ul {
+  display: inline;
+  text-align: center;
+  font-size: 30px;
+}
+
+nav a {
+  height: 60px;
+  line-height: 60px;
+  border-width: medium medium medium;
+  text-decoration: none;
+}*/
+
+/*a {
+  color: #FFFFFF;
+  text-decoration: none;
+}*/
+
+/*.link1 {
+  color: #C70039 ;
+  border: 2px solid #C70039 ;
+}
+
+.link2 {
+  color: #000000;*/
+  border: 2px solid #000000;
+}*/

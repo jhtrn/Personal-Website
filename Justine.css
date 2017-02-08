@@ -1,0 +1,56 @@
+html, body {
+  min-height: 100%;
+  min-width: 700px;
+  display: flex;
+  flex-direction: column;
+  font-weight: 300;
+  line-height: 1.5;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  background-image: url('http://previews.123rf.com/images/colorvalley/colorvalley1510/colorvalley151000017/46995306-Watercolor-pineapple-seamless-pattern-taste-fruit-background--Stock-Vector.jpg');
+  background-position: center top;
+  background-size: cover;
+  margin: 0;
+}
+
+.page-title {
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Lucida Console' monospace;
+}
+
+.page-description {
+  border: 1px solid #000;
+  margin-top: -10px;
+  text-align: center;
+  padding: 20px;
+  font-family: Verdana, sans-serif;
+  background-color: #FFE9EC;
+}
+
+.video {
+    position: absolute;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.boxlyrics {
+  border: 1px solid #000;
+  width: 26%;
+  margin-top: 330px;
+  margin-left: 500px;
+  margin-right: 20px;
+  padding:10px;
+  font-size: 12px;
+  font-family: Verdana, sans-serif;
+  background-color: #FFE9EC;
+}
+
+footer {
+  text-align: center;
+  margin-top: 10px;
+}
